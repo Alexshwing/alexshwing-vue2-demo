@@ -1,0 +1,22 @@
+{
+  "name": "alexshwing-vue2-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.14",
+    "vite-plugin-vue2": "^2.0.3",
+    "vue": "^2.7.15",
+    "vue-router": "^3.5.2",
+    "vue-template-compiler": "^2.7.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.0",
+    "vite": "^5.0.0"
+  }
+}
